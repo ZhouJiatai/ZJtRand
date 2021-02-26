@@ -12,5 +12,5 @@
 
 ## 许可证
 
-Copyright (C) 2021 Zhou Jiatai
-[GPL-3.0-only](https://github.com/ZhouJiatai/ZJtRand/blob/main/COPYING.txt)
+Copyright (C) 2021 Zhou Jiatai  
+License: [GPL-3.0-only](https://github.com/ZhouJiatai/ZJtRand/blob/main/COPYING.txt)
