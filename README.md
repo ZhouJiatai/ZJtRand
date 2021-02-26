@@ -1,2 +1,1 @@
-# ZJtRand
- 随机数生成器
+# ZJtRand 随机数生成器
