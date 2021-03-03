@@ -1,5 +1,5 @@
 /*
-    ZJtRand 0.1.0
+    ZJtRand 0.2.0 Alpha
 
     Copyright (C) 2021 Zhou Jiatai
 
@@ -21,9 +21,13 @@
 #include <ctime>
 using namespace std;
 
+#if (__cplusplus < 201103L)
+#error "请使用支持 C++11 标准的编译器！"
+#endif // __cplusplus < 201103L
+
 inline void beginning()
 {
-    cout << "ZJtRand 随机数生成器 0.1.0\n"
+    cout << "ZJtRand 随机数生成器 0.2.0 Alpha\n"
          << "Copyright (C) 2021 Zhou Jiatai\n\n"
          << "本程序为自由软件，在自由软件联盟发布的GNU通用公共许可协议的约束下，你可以对其进行再发布及修改。协议版本为第三版。\n"
          << "我们希望发布的这款程序有用，但不保证，甚至不保证它有经济价值和适合特定用途。详情参见GNU通用公共许可协议。\n"
