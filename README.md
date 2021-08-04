@@ -1,5 +1,7 @@
 # ZJtRand 随机数生成器
 
+***注意：`main.cpp`采用**GB18030**编码。
+
 ## 编译
 
 ### Windows
@@ -17,18 +19,6 @@
     git clone https://github.com/ZhouJiatai/ZJtRand.git
     cd ZJtRand
     g++ main.cpp -static -o ZJtRand.exe
-
-### GNU/Linux
-
-执行：
-
-    git clone https://github.com/ZhouJiatai/ZJtRand.git
-    cd ZJtRand
-    g++ main.cpp -o ZJtRand
-
-可执行文件将会位于 `./ZJtRand`
-
-***注意：这样生成的可执行文件依赖关系本人还不知道。如果有人知道了，请告诉我！***
 
 ## 版权
 
