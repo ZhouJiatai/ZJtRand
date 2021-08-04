@@ -29,4 +29,4 @@
 Copyright (C) 2021 Zhou Jiatai  
 许可证: [GPL-3.0-or-later](https://github.com/ZhouJiatai/ZJtRand/blob/main/COPYING.txt) (GPLv3+)
 
-![GPL-3.0-or-later](http://www.gnu.org/graphics/gplv3-or-later-sm.png)  
+[![GPL-3.0-or-later](http://www.gnu.org/graphics/gplv3-or-later-sm.png)](https://github.com/ZhouJiatai/ZJtRand/blob/main/COPYING.txt)  
