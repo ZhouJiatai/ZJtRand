@@ -10,7 +10,7 @@
 
 [![许可证：GPLv3+](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-GPLv3%2B-red)](http://www.gnu.org/licenses/gpl-3.0.html)
 
-**注意：`main.cpp`采用GB18030编码。**
+**注意：`main.cpp`采用 GB2312（GB/T 2312-1980）编码，其余文件均采用 UTF-8 编码。**
 
 ## 编译
 
@@ -46,7 +46,7 @@
 
     git clone https://github.com/ZhouJiatai/ZJtRand.git
     cd ZJtRand
-    iconv -f gb18030 -t utf-8 main.cpp -o main-utf-8.cpp
+    iconv -f gb2312 -t utf-8 main.cpp -o main-utf-8.cpp
     g++ main-utf-8.cpp -std=c++11 -o ZJtRand
 
 可执行文件将会位于 `./ZJtRand`
@@ -55,7 +55,7 @@
 
     git clone https://github.com/ZhouJiatai/ZJtRand.git
     cd ZJtRand
-    iconv -f gb18030 -t utf-8 main.cpp -o main-utf-8.cpp
+    iconv -f gb2312 -t utf-8 main.cpp -o main-utf-8.cpp
     g++ main-utf-8.cpp -std=c++11 -static -o ZJtRand
 
 ## 版权
