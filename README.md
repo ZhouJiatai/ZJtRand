@@ -1,6 +1,6 @@
 # ZJtRand 随机数生成器
 
-[![当前版本：0.2.1](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC-0.2.1-blue)](https://github.com/ZhouJiatai/ZJtRand/releases/tag/0.2.1)
+[![当前版本：0.2.2](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC-0.2.1-blue)](https://github.com/ZhouJiatai/ZJtRand/releases/tag/0.2.1)
 [![SemVer 版本：2.0.0](https://img.shields.io/badge/Semver%20%E7%89%88%E6%9C%AC-2.0.0-blue)](https://semver.org/lang/zh-CN/spec/v2.0.0.html)
 
 [![作者：Zhou Jiatai](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-Zhou%20Jiatai-yellowgreen)](https://github.com/ZhouJiatai)
