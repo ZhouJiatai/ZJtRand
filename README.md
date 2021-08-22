@@ -1,5 +1,15 @@
 # ZJtRand 随机数生成器
 
+[![当前版本：0.2.1](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC-0.2.1-blue)](https://github.com/ZhouJiatai/ZJtRand/releases/tag/0.2.1)
+[![SemVer 版本：2.0.0](https://img.shields.io/badge/Semver%20%E7%89%88%E6%9C%AC-2.0.0-blue)](https://semver.org/lang/zh-CN/spec/v2.0.0.html)
+
+[![作者：Zhou Jiatai](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-Zhou%20Jiatai-yellowgreen)](https://github.com/ZhouJiatai)
+
+[![语言：C++](https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-C%2B%2B-ff69b4)](https://github.com/cplusplus)
+[![语言标准：C++11](https://img.shields.io/badge/%E8%AF%AD%E8%A8%80%E6%A0%87%E5%87%86-C%2B%2B11-ff69b4)](https://wg21.link/std11)
+
+[![许可证：GPLv3+](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-GPLv3%2B-red)](http://www.gnu.org/licenses/gpl-3.0.html)
+
 **注意：`main.cpp`采用GB18030编码。**
 
 ## 编译
@@ -8,7 +18,7 @@
 
 你需要如下软件：
 * [Git for Windows](https://gitforwindows.org/)  
-* [Mingw-w64](http://www.mingw-w64.org/doku.php)（所含g++需支持并启用 C++11）  
+* [MinGW-W64](http://www.mingw-w64.org/doku.php)（所含g++需支持并启用 C++11）  
 
 在“命令提示符”中执行：
 
@@ -51,6 +61,6 @@
 ## 版权
 
 Copyright (C) 2021 Zhou Jiatai  
-许可证: [GPL-3.0-or-later](https://github.com/ZhouJiatai/ZJtRand/blob/main/COPYING.txt) (GPLv3+)
+许可证: [GPL-3.0-or-later](http://www.gnu.org/licenses/gpl-3.0.html) (GPLv3+)
 
-[![GPL-3.0-or-later](http://www.gnu.org/graphics/gplv3-or-later.png)](https://github.com/ZhouJiatai/ZJtRand/blob/main/COPYING.txt)  
+[![GPL-3.0-or-later](http://www.gnu.org/graphics/gplv3-or-later.png)](http://www.gnu.org/licenses/gpl-3.0.html)  
