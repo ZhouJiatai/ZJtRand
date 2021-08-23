@@ -29,7 +29,7 @@ inline void beginning()
 {
     cout << "ZJtRand 随机数生成器 0.2.2\n"
          << "Copyright (C) 2021 Zhou Jiatai\n"
-         << "许可证：GPL-3.0-or-later (GPLv3+)\n"
+         << "许可证：GPL-3.0-or-later（GPLv3+）\n"
          << "本程序的源代码可以从"
          << "<https://github.com/ZhouJiatai/ZJtRand>下载。\n\n"
          << "本程序为自由软件，"
