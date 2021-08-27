@@ -61,7 +61,10 @@
 ## 版权
 
 Copyright (C) 2021 Zhou Jiatai  
-许可证：[GNU General Public License v3.0 or later](http://www.gnu.org/licenses/gpl-3.0.html)（GPL-3.0-or-later, GPLv3+）
+
+## 许可证
+
+[GNU General Public License v3.0 or later](http://www.gnu.org/licenses/gpl-3.0.html)（GPL-3.0-or-later, GPLv3+）
 
 > [![GPL-3.0-or-later](http://www.gnu.org/graphics/gplv3-or-later-sm.png)](http://www.gnu.org/licenses/gpl-3.0.html)  
 本程序为自由软件，在自由软件联盟发布的[GNU通用公共许可协议](http://www.gnu.org/licenses/gpl-3.0.html)的约束下，你可以对其进行再发布及修改。  
