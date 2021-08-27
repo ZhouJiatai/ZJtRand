@@ -1,6 +1,6 @@
 # ZJtRand 随机数生成器
 
-[![当前发布版本：0.2.2](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%8F%91%E5%B8%83%E7%89%88%E6%9C%AC-0.2.2-blue)](https://github.com/ZhouJiatai/ZJtRand/releases/tag/0.2.2)
+[![当前发布版本：0.2.3](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%8F%91%E5%B8%83%E7%89%88%E6%9C%AC-0.2.3-blue)](https://github.com/ZhouJiatai/ZJtRand/releases/tag/0.2.3)
 [![SemVer 版本：2.0.0](https://img.shields.io/badge/Semver%20%E7%89%88%E6%9C%AC-2.0.0-blue)](https://semver.org/lang/zh-CN/spec/v2.0.0.html)
 
 [![作者：Zhou Jiatai](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-Zhou%20Jiatai-yellowgreen)](https://github.com/ZhouJiatai)
@@ -64,6 +64,4 @@ Copyright (C) 2021 Zhou Jiatai
 许可证：[GNU General Public License v3.0 or later](http://www.gnu.org/licenses/gpl-3.0.html)（GPL-3.0-or-later, GPLv3+）
 
 > [![GPL-3.0-or-later](http://www.gnu.org/graphics/gplv3-or-later-sm.png)](http://www.gnu.org/licenses/gpl-3.0.html)  
-本程序为自由软件，在自由软件联盟发布的[GNU通用公共许可协议](http://www.gnu.org/licenses/gpl-3.0.html)的约束下，你可以对其进行再发布及修改。协议版本为第三版或（随你）更新的版本。  
-我们希望发布的这款程序有用，但不保证，甚至不保证它有经济价值和适合特定用途。详情参见[GNU通用公共许可协议](http://www.gnu.org/licenses/gpl-3.0.html)。  
-你理当已收到一份GNU通用公共许可协议的副本，如果没有，请查阅<http://www.gnu.org/licenses/>
+本程序为自由软件，在自由软件联盟发布的[GNU通用公共许可协议](http://www.gnu.org/licenses/gpl-3.0.html)的约束下，你可以对其进行再发布及修改。协议版本为第三版或（随你）更新的版本。我们希望发布的这款程序有用，但不保证，甚至不保证它有经济价值和适合特定用途。详情参见[GNU通用公共许可协议](http://www.gnu.org/licenses/gpl-3.0.html)。你理当已收到一份GNU通用公共许可协议的副本，如果没有，请查阅<http://www.gnu.org/licenses/>

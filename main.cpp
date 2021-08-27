@@ -27,7 +27,7 @@ using namespace std;
 
 inline void beginning()
 {
-    cout << "ZJtRand 随机数生成器 0.2.2\n"
+    cout << "ZJtRand 随机数生成器 0.2.3\n"
          << "Copyright (C) 2021 Zhou Jiatai\n"
          << "许可证：GPL-3.0-or-later（GPLv3+）\n"
          << "本程序的源代码可以从"
@@ -77,7 +77,7 @@ inline int getint()
 inline bool getrand()
 {
     int maxn;
-    cout << "\n请输入要产生的随机数的最大值（小于32769，大于0），\n"
+    cout << "\n请输入要产生的随机数的最大值（小于32768，大于0），\n"
     << "然后输入回车键确认"
     << "（直接输入回车键或输入0后再按回车键表示退出）：";
     maxn = getint();
@@ -89,9 +89,9 @@ inline bool getrand()
         return true;
     }
     cout << "您输入的数是：" << maxn << '\n';
-    if(maxn >= 32769)
+    if(maxn >= 32768)
     {
-        cout << "对不起，您输入的数大于或等于32769。\n";
+        cout << "对不起，您输入的数大于或等于32768。\n";
         return true;
     }
     cout << "产生的随机数是：" << rand() % maxn + 1 << '\n';
