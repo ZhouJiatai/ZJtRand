@@ -88,6 +88,11 @@ inline bool getrand()
         cout << "对不起，您输入的字符串中含有非数字字符，请重新输入。\n";
         return true;
     }
+    else if(maxn == 2147483647)
+    {
+        cout << "对不起，您输入的数大于或等于32768。\n";
+        return true;
+    }
     cout << "您输入的数是：" << maxn << '\n';
     if(maxn >= 32768)
     {
