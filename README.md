@@ -1,5 +1,7 @@
 # ZJtRand 随机数生成器
 
+**点击[此处](https://github.com/ZhouJiatai/ZJtRand/releases/tag/0.2.3)下载最新版。**
+
 [![当前发布版本：0.2.3](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%8F%91%E5%B8%83%E7%89%88%E6%9C%AC-0.2.3-blue)](https://github.com/ZhouJiatai/ZJtRand/releases/tag/0.2.3)
 [![SemVer 版本：2.0.0](https://img.shields.io/badge/Semver%20%E7%89%88%E6%9C%AC-2.0.0-blue)](https://semver.org/lang/zh-CN/spec/v2.0.0.html)
 
